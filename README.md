@@ -27,6 +27,23 @@ The interactive Power BI report allows users to compare Colorado hospitals by fa
 - Data Visualization
 - Healthcare Analytics
 
+## Analysis & Findings
+
+This report is designed primarily as an exploratory comparison tool rather than a causal analysis. It allows users to compare hospitals across quality, staffing, and relative cost measures and identify facilities that may warrant further investigation.
+
+### Key Observations
+
+- Hospital performance varies meaningfully across quality, staffing, and cost measures.
+- Higher staffing levels do not automatically correspond to higher quality scores, suggesting that staffing should be interpreted alongside other operational and clinical factors.
+- Relative procedure costs vary substantially across hospitals, even within the same geographic market.
+- Some hospitals perform relatively well on quality measures while maintaining lower relative costs, making them useful candidates for further benchmarking.
+- Facility-level filters make it easier to compare individual hospitals and investigate outliers.
+- The data did not allow inpatient vs outpatient costs to be analyzed separately. This would be a useful addition if the data becomes available.
+
+### Interpretation
+
+The dashboard is intended to support comparison and hypothesis generation. It does not establish that staffing levels or costs directly cause differences in patient outcomes. Differences among hospitals may also reflect patient populations, service mix, hospital size, case complexity, and other factors not included in the analysis.
+
 ## Project Files
 
 ### Power BI Report
@@ -70,19 +87,3 @@ The relative cost data in this project were used to compare procedure costs acro
 
 The analysis is limited to Colorado hospitals. Facility identifiers and hospital names were cleaned and matched across the source datasets to create a common hospital dimension for analysis in Power BI.
 
-## Analysis & Findings
-
-This report is designed primarily as an exploratory comparison tool rather than a causal analysis. It allows users to compare hospitals across quality, staffing, and relative cost measures and identify facilities that may warrant further investigation.
-
-### Key Observations
-
-- Hospital performance varies meaningfully across quality, staffing, and cost measures.
-- Higher staffing levels do not automatically correspond to higher quality scores, suggesting that staffing should be interpreted alongside other operational and clinical factors.
-- Relative procedure costs vary substantially across hospitals, even within the same geographic market.
-- Some hospitals perform relatively well on quality measures while maintaining lower relative costs, making them useful candidates for further benchmarking.
-- Facility-level filters make it easier to compare individual hospitals and investigate outliers.
-- The data did not allow inpatient vs outpatient costs to be analyzed separately. This would be a useful addition if the data becomes available.
-
-### Interpretation
-
-The dashboard is intended to support comparison and hypothesis generation. It does not establish that staffing levels or costs directly cause differences in patient outcomes. Differences among hospitals may also reflect patient populations, service mix, hospital size, case complexity, and other factors not included in the analysis.
