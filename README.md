@@ -37,6 +37,8 @@ The PBIX file contains the complete report, including the data model, Power Quer
 
 **Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.## Data Sources
 
+## Sources
+
 This project combines publicly available hospital quality, staffing, facility, and cost data from federal and Colorado health care data sources.
 
 ### Centers for Medicare & Medicaid Services (CMS) — Provider Data Catalog
