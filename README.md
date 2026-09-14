@@ -21,7 +21,21 @@ This Power BI project analyzes Colorado hospitals across three areas of performa
 - Data Visualization
 - Healthcare Analytics
 
-## Data Sources
+## Dashboard
+
+The interactive Power BI report allows users to compare Colorado hospitals by facility and geographic area and explore relationships among hospital quality, staffing, and relative procedure costs.
+
+![Colorado Hospital Performance Dashboard](colorado-hospital-dashboard.png)
+
+## Project Files
+
+### Power BI Report
+
+[Download the Power BI project file (.pbix)](Colorado_Hospital_Performance.pbix)
+
+The PBIX file contains the complete report, including the data model, Power Query transformations, DAX measures, and report visualizations.
+
+**Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.## Data Sources
 
 This project combines publicly available hospital quality, staffing, facility, and cost data from federal and Colorado health care data sources.
 
@@ -53,20 +67,6 @@ The relative cost data in this project were used to compare procedure costs acro
 ### Geographic Scope
 
 The analysis is limited to Colorado hospitals. Facility identifiers and hospital names were cleaned and matched across the source datasets to create a common hospital dimension for analysis in Power BI.
-
-## Dashboard
-
-Dashboard preview will be added here.
-
-## Project Files
-
-### Power BI Report
-
-[Download the Power BI project file (.pbix)](Colorado_Hospital_Performance.pbix)
-
-The PBIX file contains the complete report, including the data model, Power Query transformations, DAX measures, and report visualizations.
-
-**Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.
 
 ## Analysis & Findings
 
