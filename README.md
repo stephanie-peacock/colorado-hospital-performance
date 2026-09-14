@@ -4,6 +4,12 @@
 
 This Power BI project analyzes Colorado hospitals across three areas of performance: patient outcomes, staffing, and relative procedure costs. The goal is to make publicly available healthcare data easier to compare and explore at the individual hospital level.
 
+## Dashboard
+
+The interactive Power BI report allows users to compare Colorado hospitals by facility and geographic area and explore relationships among hospital quality, staffing, and relative procedure costs.
+
+![Colorado Hospital Performance Dashboard](COHospPerformance.png)
+
 ## Business Questions
 
 - How do Colorado hospitals compare on patient outcomes and quality measures?
@@ -20,12 +26,6 @@ This Power BI project analyzes Colorado hospitals across three areas of performa
 - Data Modeling
 - Data Visualization
 - Healthcare Analytics
-
-## Dashboard
-
-The interactive Power BI report allows users to compare Colorado hospitals by facility and geographic area and explore relationships among hospital quality, staffing, and relative procedure costs.
-
-![Colorado Hospital Performance Dashboard](COHospPerformance.png)
 
 ## Project Files
 
