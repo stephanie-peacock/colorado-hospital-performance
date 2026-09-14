@@ -86,5 +86,3 @@ This report is designed primarily as an exploratory comparison tool rather than 
 ### Interpretation
 
 The dashboard is intended to support comparison and hypothesis generation. It does not establish that staffing levels or costs directly cause differences in patient outcomes. Differences among hospitals may also reflect patient populations, service mix, hospital size, case complexity, and other factors not included in the analysis.
-
-Key findings from the analysis will be added here.
