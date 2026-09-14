@@ -60,7 +60,13 @@ Dashboard preview will be added here.
 
 ## Project Files
 
-The Power BI (.pbix) project file will be available in this repository.
+### Power BI Report
+
+[Download the Power BI project file (.pbix)](Colorado_Hospital_Performance.pbix)
+
+The PBIX file contains the complete report, including the data model, Power Query transformations, DAX measures, and report visualizations.
+
+**Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.
 
 ## Analysis & Findings
 
