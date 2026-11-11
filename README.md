@@ -52,7 +52,7 @@ The dashboard is intended to support comparison and hypothesis generation. It do
 
 The PBIX file contains the complete report, including the data model, Power Query transformations, DAX measures, and report visualizations.
 
-**Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.## Data Sources
+**Requirements:** Microsoft Power BI Desktop is required to open the PBIX file.
 
 ## Sources
 
